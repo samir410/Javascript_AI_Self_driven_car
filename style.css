@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    background: darkgray;
+    overflow: hidden;
+    text-align: center;
+    flex: auto;
+    padding: auto;
+    border: 40px;
+}
+#myCanvas{
+    background: rgb(206, 198, 198);
+    flex:auto;
+    border: 40rm;
+    align-items: center;
+}
